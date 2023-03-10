@@ -592,6 +592,25 @@ Recipes
   }
 }
 
+/*
+=============== 
+Error
+===============
+*/
+
+.error-page
+{
+  text-align: center;
+}
+
+.error-page h1
+{
+  font-size: 5rem;
+}
+
+
+
+
 
 
 
